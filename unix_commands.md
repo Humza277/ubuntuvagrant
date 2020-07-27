@@ -7,5 +7,8 @@
 -create a file - touch - 'filenamehere.txt' - makes a file
 -make a directory - mkdir 'directory name here' -  makes a directory 
 -change a directory - 'cd ..' goes up a directory, 'cd directory' moves to that directory
--
+-change to super user - sudo su - changes to super user 
+-who is useing the machine - id - shows who is on the machine
+-how to print cmd - echo - prints the command line
+-to remove su - exit - exit to normal user 
 
