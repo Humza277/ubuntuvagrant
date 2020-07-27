@@ -1,0 +1,11 @@
+-Where am i - pwd - prints working directory 
+-who am i - who - tells you the user and the time
+-what do i have - ls- lists everything in the current directory
+-hidden files - "ls -a" - tells you about the hidden files in the folder 
+-find out the os - uname - tells you the name of the current os in linux 
+-to clear the screen - clear - clears the screen
+-create a file - touch - 'filenamehere.txt' - makes a file
+-make a directory - mkdir 'directory name here' -  makes a directory 
+-change a directory - 'cd ..' goes up a directory, 'cd directory' moves to that directory
+-
+
