@@ -11,4 +11,5 @@
 -who is useing the machine - id - shows who is on the machine
 -how to print cmd - echo - prints the command line
 -to remove su - exit - exit to normal user 
+-how to install packages - sudo apt-get install - installs the desired oackage 
 
