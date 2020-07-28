@@ -62,3 +62,12 @@ created an bash script which downloaded nginx again onto our device
 sudo apt-get update
 sudo apt-get install nginx
 sudo apt-get upgrade
+
+
+chmod +rwx filename to add permissions.
+chmod -rwx directoryname to remove permissions.
+chmod +x filename to allow executable permissions.
+chmod -wx filename to take out write and executable permissions.
+Note that “r” is for read, “w” is for write, and “x” is for execute. 
+
+This only changes the permissions for the owner of the file.
